@@ -1,2 +1,5 @@
 # bl_colorcontrol
- Simple Neon Controler 
+ Simple Neon Controler
+
+
+ Discord: discord.gg/nYCvThHYyd
